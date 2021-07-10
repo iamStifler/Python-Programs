@@ -1,0 +1,7 @@
+# Program to print Abecedarian Series.
+# Hint : It refers to a series or list in which the element appear in alphabetic order.
+
+str1 = "STIFLER"
+str2 = "ant"
+for letter in str1:
+    print((letter + str2), end=' ')
